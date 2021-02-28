@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/artihc/static/css/main.bab0b925.chunk.css",
+    "main.js": "/artihc/static/js/main.5a1b8736.chunk.js",
+    "main.js.map": "/artihc/static/js/main.5a1b8736.chunk.js.map",
+    "runtime-main.js": "/artihc/static/js/runtime-main.0e134b44.js",
+    "runtime-main.js.map": "/artihc/static/js/runtime-main.0e134b44.js.map",
+    "static/css/2.d0fdb7d3.chunk.css": "/artihc/static/css/2.d0fdb7d3.chunk.css",
+    "static/js/2.f4892c01.chunk.js": "/artihc/static/js/2.f4892c01.chunk.js",
+    "static/js/2.f4892c01.chunk.js.map": "/artihc/static/js/2.f4892c01.chunk.js.map",
+    "index.html": "/artihc/index.html",
+    "static/css/2.d0fdb7d3.chunk.css.map": "/artihc/static/css/2.d0fdb7d3.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/artihc/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.f4892c01.chunk.js.LICENSE.txt": "/artihc/static/js/2.f4892c01.chunk.js.LICENSE.txt",
+    "static/media/aniket.b416fe63.jpg": "/artihc/static/media/aniket.b416fe63.jpg",
+    "static/media/artihc.17db5e61.png": "/artihc/static/media/artihc.17db5e61.png",
+    "static/media/diksha.8c1e64a4.jpg": "/artihc/static/media/diksha.8c1e64a4.jpg",
+    "static/media/harshit.4d24e2f0.png": "/artihc/static/media/harshit.4d24e2f0.png",
+    "static/media/pulkit.123980e7.jpg": "/artihc/static/media/pulkit.123980e7.jpg",
+    "static/media/radhika.8f21cefa.jpg": "/artihc/static/media/radhika.8f21cefa.jpg",
+    "static/media/srinija.a16d9cba.jpg": "/artihc/static/media/srinija.a16d9cba.jpg",
+    "static/media/sriram.67079945.jpg": "/artihc/static/media/sriram.67079945.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e134b44.js",
+    "static/css/2.d0fdb7d3.chunk.css",
+    "static/js/2.f4892c01.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.5a1b8736.chunk.js"
+  ]
+}
