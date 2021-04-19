@@ -50,11 +50,11 @@ class Resume extends Component {
     return (
       <section style={{backgroundColor:this.props.colorinfo}} id="resume">
 
-      <div style={{display:'flex', flexWrap:'wrap'}}>
-        
+      <div className="rowresume" style={{display:'flex', flexWrap:'wrap'}}>
+          <div className="col-md-4 col-sm-6 col-xs-12" > 
                   <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -76,12 +76,12 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/harshit.raj.9849912" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
+                  </div>
 
-
-
+                  <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -103,12 +103,12 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/profile.php?id=100017567738518" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
+                </div>
 
-
-
+                <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -130,11 +130,11 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/diksha.sinha.9250" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
-
-
+                </div>
+                <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -156,11 +156,11 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/profile.php?id=100049135191503" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
-
-
+                </div>
+                <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -182,11 +182,11 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/profile.php?id=100010730925977" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
-
-
+                </div>
+                <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -208,11 +208,11 @@ class Resume extends Component {
                      <SocialIcon target="blank" url="https://www.facebook.com/sriramsai.kukudala339" bgColor="black" style={{ margin:10, height: 50, width: 50 }} />
                   </BackSide>
                 </Flippy>
-
-
+                </div>
+                <div className="col-md-4 col-sm-6 col-xs-12" > 
                 <Flippy
 
-                  flipOnHover={true} // default false
+                  flipOnHover={false} // default false
                   flipOnClick={true} // default false
                   flipDirection="horizontal" // horizontal or vertical
                   ref={(r) => this.flippy = r} // to use toggle method like this.flippy.toggle()
@@ -234,7 +234,7 @@ class Resume extends Component {
                      
                   </BackSide>
                 </Flippy>
-
+                </div>
 
 
 

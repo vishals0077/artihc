@@ -29,7 +29,7 @@ class Header extends Component {
       
          <div className="banner-text" >
         
-         <Typist><h1 className="responsive-headline" >Welcome to Artihc</h1>  </Typist>        
+         <Typist cursor={{show:false}}><h1 className="responsive-headline" >Welcome to Artihc</h1>  </Typist>        
             
             <img src={logo} height='300' width='300' />
             
